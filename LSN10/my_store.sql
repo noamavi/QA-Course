@@ -47,3 +47,7 @@ VALUES
 	('NiceTable', 1580.20,1),
 	('Chair', 120.99,2),
 	('Sofa', 3000.75,2)
+
+BULK INSERT [dbo].[cities]
+	FROM 'C:\Users\User\Desktop\QA-Course\LSN10\citi.csv'
+	WITH (FORMAT = 'CSV', FIELDTERMINATOR = ',' , ROWTERMINATOR = '0x0a');
