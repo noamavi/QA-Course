@@ -5,12 +5,14 @@ CREATE DATABASE KOLBO;
 CREATE TABLE products(
     p_id INT NOT NULL IDENTITY(1,1) PRIMARY KEY,
     p_name VARCHAR(40),
-    price FLOAT
+    p_price FLOAT
 )
 
 CREATE TABLE workers(
     w_id INT NOT NULL IDENTITY(1,1) PRIMARY KEY,
-    w_name VARCHAR(25)
+    w_fname VARCHAR(25),
+    w_lname VARCHAR(25),
+    w_sex CHAR
 )
 
 CREATE TABLE orders(

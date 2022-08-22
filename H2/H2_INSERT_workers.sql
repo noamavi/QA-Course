@@ -1,4 +1,4 @@
-INSERT INTO workers(`w_fname`, `w_lname`, `w_sex`) VALUES
+INSERT INTO workers(w_fname, w_lname, w_sex) VALUES
 ('Marizabel', 'Nyashin', 'F'),
 ('Zine', 'Schopphoven', 'M'),
 ('Agenor', 'Guilbaud', 'F'),

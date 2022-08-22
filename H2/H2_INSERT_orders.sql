@@ -1,4 +1,4 @@
-INSERT INTO orders(`p_id`, `w_id`, `quantity`) VALUES
+INSERT INTO orders(p_id, w_id, quantity) VALUES
 (150, 122, 27),
 (321, 50, 74),
 (889, 75, 15),
@@ -1001,7 +1001,7 @@ INSERT INTO orders(`p_id`, `w_id`, `quantity`) VALUES
 (733, 42, 4),
 (976, 142, 2);
 
-INSERT INTO orders(`p_id`, `w_id`, `quantity`) VALUES
+INSERT INTO orders(p_id, w_id, quantity) VALUES
 (47, 84, 88),
 (215, 173, 1),
 (998, 139, 53),
@@ -2004,7 +2004,7 @@ INSERT INTO orders(`p_id`, `w_id`, `quantity`) VALUES
 (775, 211, 58),
 (332, 242, 31);
 
-INSERT INTO orders(`p_id`, `w_id`, `quantity`) VALUES
+INSERT INTO orders(p_id, w_id, quantity) VALUES
 (253, 117, 84),
 (982, 89, 28),
 (210, 123, 88),
@@ -3007,7 +3007,7 @@ INSERT INTO orders(`p_id`, `w_id`, `quantity`) VALUES
 (245, 78, 35),
 (305, 246, 32);
 
-INSERT INTO orders(`p_id`, `w_id`, `quantity`) VALUES
+INSERT INTO orders(p_id, w_id, quantity) VALUES
 (805, 165, 34),
 (955, 53, 44),
 (1000, 172, 12),
@@ -4010,7 +4010,7 @@ INSERT INTO orders(`p_id`, `w_id`, `quantity`) VALUES
 (787, 113, 42),
 (518, 23, 77);
 
-INSERT INTO orders(`p_id`, `w_id`, `quantity`) VALUES
+INSERT INTO orders(p_id, w_id, quantity) VALUES
 (447, 31, 64),
 (747, 175, 33),
 (912, 153, 50),
@@ -5013,7 +5013,7 @@ INSERT INTO orders(`p_id`, `w_id`, `quantity`) VALUES
 (50, 118, 73),
 (152, 153, 41);
 
-INSERT INTO orders(`p_id`, `w_id`, `quantity`) VALUES
+INSERT INTO orders(p_id, w_id, quantity) VALUES
 (502, 124, 29),
 (676, 24, 91),
 (760, 70, 67),
@@ -6016,7 +6016,7 @@ INSERT INTO orders(`p_id`, `w_id`, `quantity`) VALUES
 (748, 155, 42),
 (346, 228, 52);
 
-INSERT INTO orders(`p_id`, `w_id`, `quantity`) VALUES
+INSERT INTO orders(p_id, w_id, quantity) VALUES
 (592, 39, 95),
 (238, 190, 4),
 (725, 103, 8),
@@ -7019,7 +7019,7 @@ INSERT INTO orders(`p_id`, `w_id`, `quantity`) VALUES
 (377, 232, 77),
 (160, 49, 63);
 
-INSERT INTO orders(`p_id`, `w_id`, `quantity`) VALUES
+INSERT INTO orders(p_id, w_id, quantity) VALUES
 (811, 211, 63),
 (7, 161, 67),
 (106, 227, 92),
@@ -8022,7 +8022,7 @@ INSERT INTO orders(`p_id`, `w_id`, `quantity`) VALUES
 (742, 157, 9),
 (388, 58, 11);
 
-INSERT INTO orders(`p_id`, `w_id`, `quantity`) VALUES
+INSERT INTO orders(p_id, w_id, quantity) VALUES
 (460, 235, 25),
 (677, 239, 100),
 (162, 39, 46),
@@ -9025,7 +9025,7 @@ INSERT INTO orders(`p_id`, `w_id`, `quantity`) VALUES
 (813, 61, 51),
 (495, 91, 59);
 
-INSERT INTO orders(`p_id`, `w_id`, `quantity`) VALUES
+INSERT INTO orders(p_id, w_id, quantity) VALUES
 (99, 77, 80),
 (774, 144, 91),
 (232, 122, 39),
@@ -10028,7 +10028,7 @@ INSERT INTO orders(`p_id`, `w_id`, `quantity`) VALUES
 (159, 8, 90),
 (645, 127, 65);
 
-INSERT INTO orders(`p_id`, `w_id`, `quantity`) VALUES
+INSERT INTO orders(p_id, w_id, quantity) VALUES
 (405, 186, 57),
 (856, 206, 60),
 (966, 99, 24),
@@ -11031,7 +11031,7 @@ INSERT INTO orders(`p_id`, `w_id`, `quantity`) VALUES
 (620, 94, 35),
 (146, 157, 62);
 
-INSERT INTO orders(`p_id`, `w_id`, `quantity`) VALUES
+INSERT INTO orders(p_id, w_id, quantity) VALUES
 (427, 27, 13),
 (385, 119, 48),
 (543, 31, 69),
@@ -12034,7 +12034,7 @@ INSERT INTO orders(`p_id`, `w_id`, `quantity`) VALUES
 (231, 61, 41),
 (786, 119, 81);
 
-INSERT INTO orders(`p_id`, `w_id`, `quantity`) VALUES
+INSERT INTO orders(p_id, w_id, quantity) VALUES
 (540, 118, 44),
 (259, 104, 64),
 (13, 144, 31),
@@ -13037,7 +13037,7 @@ INSERT INTO orders(`p_id`, `w_id`, `quantity`) VALUES
 (175, 200, 72),
 (693, 67, 98);
 
-INSERT INTO orders(`p_id`, `w_id`, `quantity`) VALUES
+INSERT INTO orders(p_id, w_id, quantity) VALUES
 (211, 132, 55),
 (494, 94, 88),
 (28, 246, 10),
@@ -14040,7 +14040,7 @@ INSERT INTO orders(`p_id`, `w_id`, `quantity`) VALUES
 (6, 30, 1),
 (66, 95, 64);
 
-INSERT INTO orders(`p_id`, `w_id`, `quantity`) VALUES
+INSERT INTO orders(p_id, w_id, quantity) VALUES
 (421, 15, 74),
 (910, 85, 13),
 (306, 83, 62),
@@ -15043,7 +15043,7 @@ INSERT INTO orders(`p_id`, `w_id`, `quantity`) VALUES
 (326, 95, 61),
 (270, 125, 67);
 
-INSERT INTO orders(`p_id`, `w_id`, `quantity`) VALUES
+INSERT INTO orders(p_id, w_id, quantity) VALUES
 (285, 198, 38),
 (74, 43, 64),
 (929, 110, 18),
@@ -16046,7 +16046,7 @@ INSERT INTO orders(`p_id`, `w_id`, `quantity`) VALUES
 (888, 105, 9),
 (98, 67, 51);
 
-INSERT INTO orders(`p_id`, `w_id`, `quantity`) VALUES
+INSERT INTO orders(p_id, w_id, quantity) VALUES
 (373, 93, 74),
 (374, 32, 1),
 (131, 237, 94),
@@ -17049,7 +17049,7 @@ INSERT INTO orders(`p_id`, `w_id`, `quantity`) VALUES
 (928, 223, 29),
 (253, 164, 14);
 
-INSERT INTO orders(`p_id`, `w_id`, `quantity`) VALUES
+INSERT INTO orders(p_id, w_id, quantity) VALUES
 (102, 21, 9),
 (428, 54, 98),
 (858, 58, 90),
@@ -18052,7 +18052,7 @@ INSERT INTO orders(`p_id`, `w_id`, `quantity`) VALUES
 (894, 224, 9),
 (135, 98, 100);
 
-INSERT INTO orders(`p_id`, `w_id`, `quantity`) VALUES
+INSERT INTO orders(p_id, w_id, quantity) VALUES
 (516, 127, 46),
 (131, 19, 13),
 (392, 118, 85),
@@ -19055,7 +19055,7 @@ INSERT INTO orders(`p_id`, `w_id`, `quantity`) VALUES
 (643, 115, 86),
 (226, 175, 48);
 
-INSERT INTO orders(`p_id`, `w_id`, `quantity`) VALUES
+INSERT INTO orders(p_id, w_id, quantity) VALUES
 (834, 43, 12),
 (984, 100, 35),
 (760, 60, 35),
@@ -20058,7 +20058,7 @@ INSERT INTO orders(`p_id`, `w_id`, `quantity`) VALUES
 (600, 105, 96),
 (610, 229, 12);
 
-INSERT INTO orders(`p_id`, `w_id`, `quantity`) VALUES
+INSERT INTO orders(p_id, w_id, quantity) VALUES
 (93, 174, 97),
 (168, 128, 25),
 (228, 197, 64),
@@ -21061,7 +21061,7 @@ INSERT INTO orders(`p_id`, `w_id`, `quantity`) VALUES
 (830, 51, 14),
 (715, 79, 36);
 
-INSERT INTO orders(`p_id`, `w_id`, `quantity`) VALUES
+INSERT INTO orders(p_id, w_id, quantity) VALUES
 (677, 120, 35),
 (415, 212, 50),
 (505, 54, 27),
@@ -22064,7 +22064,7 @@ INSERT INTO orders(`p_id`, `w_id`, `quantity`) VALUES
 (484, 118, 16),
 (613, 152, 76);
 
-INSERT INTO orders(`p_id`, `w_id`, `quantity`) VALUES
+INSERT INTO orders(p_id, w_id, quantity) VALUES
 (806, 147, 71),
 (758, 170, 64),
 (512, 40, 83),
@@ -23067,7 +23067,7 @@ INSERT INTO orders(`p_id`, `w_id`, `quantity`) VALUES
 (726, 81, 22),
 (22, 190, 82);
 
-INSERT INTO orders(`p_id`, `w_id`, `quantity`) VALUES
+INSERT INTO orders(p_id, w_id, quantity) VALUES
 (333, 59, 94),
 (593, 106, 78),
 (345, 197, 40),
@@ -24070,7 +24070,7 @@ INSERT INTO orders(`p_id`, `w_id`, `quantity`) VALUES
 (410, 235, 34),
 (980, 248, 20);
 
-INSERT INTO orders(`p_id`, `w_id`, `quantity`) VALUES
+INSERT INTO orders(p_id, w_id, quantity) VALUES
 (430, 136, 47),
 (454, 225, 38),
 (176, 85, 40),
@@ -25073,7 +25073,7 @@ INSERT INTO orders(`p_id`, `w_id`, `quantity`) VALUES
 (421, 209, 87),
 (288, 56, 67);
 
-INSERT INTO orders(`p_id`, `w_id`, `quantity`) VALUES
+INSERT INTO orders(p_id, w_id, quantity) VALUES
 (522, 114, 2),
 (530, 160, 14),
 (67, 63, 56),
